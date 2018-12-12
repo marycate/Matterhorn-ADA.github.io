@@ -6,7 +6,7 @@ layout: default
 
 ### Nice, clean, reading!
 
-<iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px"></iframe>
+<iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
 
 Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
 

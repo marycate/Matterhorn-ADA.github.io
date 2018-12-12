@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+## Let's get emotional, we already got physical..
 
 ### Nice, clean, reading!
 

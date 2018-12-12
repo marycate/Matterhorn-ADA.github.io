@@ -6,8 +6,7 @@ layout: default
 
 ### Nice, clean, reading!
 
-<iframe src="https://github.com/python-visualization/folium/issues/781" height="315" width="560" allowfullscreen="" frameborder="0">
-</iframe>
+<iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px"></iframe>
 
 Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
 

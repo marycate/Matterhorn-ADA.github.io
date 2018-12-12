@@ -6,10 +6,10 @@ layout: default
 
 In our data story we explore conflicts all over the world and the public attention they receive. We harness the huge GDELT 2.0 dataset consisting of events collected every day from thousands media channels of the world's news. The GDELT contains various features about the particular events including the sentiment analysis of the news sources. We focus mostly on the emotions conflicts tend to arouse with respect to their distinct features. The questions we ask are whether some regions are payed more attention than others, if news articles get more emotionally involved in conflicts occuring closer to our homes, or whether we tend to depict particular regions, nations or ethnicities by some steady emotional patterns. Throughout our research we hope to lift the shroud of how equally media report on the worlds conflicts and whether some sentiment bias exists. As the public is nowadays heavily influenced by (social) media and emotions affect us often heavier than the pure facts, we believe it is an important task to investigate how our news sources work with such a power they have upon us.
 
-### Are we emotionally biased?
-Do the number of conflicts or their distance from our home define our emotions? How large is our circle of empathy?
+### How large is our circle of empathy?
+Are we emotionally biased? Do the number of conflicts or their distance from our home define our emotions? 
 
-### Do we care about YOU?
+### Do we care about all?
 Are some countries ignored in the news? Is the number of conflicts taking place in a country in relation with the number of mentions in the media depending on where the conflict has happened?
 
 ### Are we emotionally predictable?
@@ -23,10 +23,6 @@ Are some nations more emotional? Do we see sensitivity differences between some 
 
 
 <iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
-
-Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 > "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 

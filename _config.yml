@@ -1,9 +1,9 @@
 # Site settings
 title: Emotions in Conflicts
-tag_text: Good Clean Read
-description: A responsive template for publishing single-page websites, articles that are easy on the eyes
-url: "http://127.0.0.1:4000"
-baseurl: ""
+tag_text: Emotions in Conflicts tag
+description: Let’s get emotional, we already got physical..
+url: "https://matterhorn-ada.github.io/"
+baseurl: "https://matterhorn-ada.github.io/"
 
 font-awesome-include: true # make this false if you don't need font-awesome
 

@@ -16,7 +16,7 @@ In our data story we explore conflicts all over the world and the public attenti
 
 ### Where the news come from ?
 
-<iframe src="https://matterhorn-ada.github.io/urls-log.html" width="100%" height="200px" frameBorder="0"></iframe>
+<iframe src="https://matterhorn-ada.github.io/urls-log.html" width="100%" height="400px" frameBorder="0" scrolling="no"></iframe>
 <br>
 On the map we can see the number of news sources per country (on logarithmic scale) from whose GDELT collects the data. The USA outranks other countries massively creating a great bias in our dataset which we further deal with. There is obviously a strong relation between the number of news servers and the significance of the country in the world politics.
 {: style="text-align: justify"}
@@ -27,7 +27,7 @@ Are some countries ignored in the news? Is the number of conflicts taking place 
 q2 - number of articles per country - us
 {: style="text-align: justify"}
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~matterhorn_ada/3.embed"></iframe>
+<iframe src="//plot.ly/~matterhorn_ada/3.embed" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 
 ### How much is too much?

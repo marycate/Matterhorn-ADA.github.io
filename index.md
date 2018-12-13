@@ -7,46 +7,38 @@ layout: default
 In our data story we explore conflicts all over the world and the public attention they receive. We harness the huge [GDELT 2.0](https://www.gdeltproject.org/) dataset consisting of events collected every day from thousands media channels of the world's news. We focus on sentiment analysis, on the emotions conflicts tend to arouse with respect to their distinct features. We ask ourselves questions such as whether some regions are payed more attention than others, if news articles get more emotionally involved in conflicts occuring closer to our homes, or whether we tend to depict particular regions, nations or ethnicities by some steady emotional patterns. Throughout our research we hope to lift the shroud of how equally media report on the worlds conflicts and whether some bias exists.
 {: style="text-align: justify"}
 
+
 where data come from - my map and plot new one for all the events, articles
 
 
-q2 - number of articles per country - us
 
 ### Do we care about all?
 Are some countries ignored in the news? Is the number of conflicts taking place in a country in relation with the number of mentions in the media depending on where the conflict has happened?
-
+q2 - number of articles per country - us
 <iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
 
-
-q4 - we know there's this bias, correction by year and month, normalization
 
 ### How much is too much?
 Do we have a saturation limit? Does increasing number of conflicts make people feel worse and worse or is there some limit?
-
+q4 - we know there's this bias, correction by year and month, normalization
 <iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
 
-
-q1 - distance and avaregage tone
 
 ### How large is our circle of empathy?
 Are we emotionally biased? Do the number of conflicts or their distance from our home define our emotions? 
-
+q1 - distance and avaregage tone
 <iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
 
-
-q5 - words and similarity of countries
 
 ### Hysteric or ice queen?
 Are some nations more emotional? Do we see sensitivity differences between some countries or actors?
-
+q5 - words and similarity of countries
 <iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
 
 
-q3 - countries reacting to event, avg tone, two cases different avg tone
-
 ### Are we emotionally predictable?
 Can we observe patterns of emotions with respect to a country, religion or an ethnical group? Can we derive a model predicting emotions in case of a new conflict based on its specific features?
-
+q3 - countries reacting to event, avg tone, two cases different avg tone
 <iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
 
 

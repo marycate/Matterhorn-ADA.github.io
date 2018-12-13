@@ -4,7 +4,9 @@ layout: default
 
 ## Let's get emotional, we already got physical..
 
-<sup> Marie Sadler & Pedro Abranches de Figueiredo Simões de Carvalho & Matyas Lustig <sup>
+<sup> Marie Sadler <sup>
+<sup> Pedro Abranches de Figueiredo Simões de Carvalho <sup>
+<sup> Matyas Lustig <sup>
 
 In our data story we explore conflicts all over the world and the public attention they receive. We harness the huge [GDELT 2.0](https://www.gdeltproject.org/) dataset consisting of events collected every day from thousands media channels of the world's news. We focus on sentiment analysis, on the emotions conflicts tend to arouse with respect to their distinct features. We ask ourselves questions such as whether some regions are payed more attention than others, if news articles get more emotionally involved in conflicts occuring closer to our homes, or whether we tend to depict particular regions, nations or ethnicities by some steady emotional patterns. Throughout our research we hope to lift the shroud of how equally media report on the worlds conflicts and whether some bias exists.
 {: style="text-align: justify"}
@@ -13,8 +15,8 @@ In our data story we explore conflicts all over the world and the public attenti
 ### Where the news come from ?
 
 <iframe src="https://matterhorn-ada.github.io/urls-log.html" width="100%" height="400px" frameBorder="0"></iframe>
-
-
+<br>
+<br>
 On the map we can see the number of news sources per country (on logarithmic scale) from whose GDELT collects the data. The USA outranks other countries massively creating a great bias in our dataset which we further deal with. There is obviously a strong relation between the number of news servers and the significance of the country in the world politics.
 {: style="text-align: justify"}
 

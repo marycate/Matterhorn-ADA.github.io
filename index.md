@@ -15,32 +15,27 @@ where data come from - my map and plot new one for all the events, articles
 ### Do we care about all?
 Are some countries ignored in the news? Is the number of conflicts taking place in a country in relation with the number of mentions in the media depending on where the conflict has happened?
 q2 - number of articles per country - us
-<iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
+<iframe src="https://matterhorn-ada.github.io/urls-log.html" width="100%" height="400px" frameBorder="0"></iframe>
 
 
 ### How much is too much?
 Do we have a saturation limit? Does increasing number of conflicts make people feel worse and worse or is there some limit?
 q4 - we know there's this bias, correction by year and month, normalization
-<iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
 
 
 ### How large is our circle of empathy?
 Are we emotionally biased? Do the number of conflicts or their distance from our home define our emotions? 
 q1 - distance and avaregage tone
-<iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
 
 
 ### Hysteric or ice queen?
 Are some nations more emotional? Do we see sensitivity differences between some countries or actors?
 q5 - words and similarity of countries
-<iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
 
 
 ### Are we emotionally predictable?
 Can we observe patterns of emotions with respect to a country, religion or an ethnical group? Can we derive a model predicting emotions in case of a new conflict based on its specific features?
 q3 - countries reacting to event, avg tone, two cases different avg tone
-<iframe src="https://matterhorn-ada.github.io/us2.html" width="100%" height="400px" frameBorder="0"></iframe>
-
 
 
 

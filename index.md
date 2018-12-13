@@ -7,15 +7,16 @@ layout: default
 In our data story we explore conflicts all over the world and the public attention they receive. We harness the huge [GDELT 2.0](https://www.gdeltproject.org/) dataset consisting of events collected every day from thousands media channels of the world's news. We focus on sentiment analysis, on the emotions conflicts tend to arouse with respect to their distinct features. We ask ourselves questions such as whether some regions are payed more attention than others, if news articles get more emotionally involved in conflicts occuring closer to our homes, or whether we tend to depict particular regions, nations or ethnicities by some steady emotional patterns. Throughout our research we hope to lift the shroud of how equally media report on the worlds conflicts and whether some bias exists.
 {: style="text-align: justify"}
 
+## where the data comes from ?
 
-where data come from - my map and plot new one for all the events, articles
+<iframe src="https://matterhorn-ada.github.io/urls-log.html" width="100%" height="400px" frameBorder="0"></iframe>
 
+On the map we can see the number of news sources per country (on logarithmic scale) from whose GDELT collects the data.
 
 
 ### Do we care about all?
 Are some countries ignored in the news? Is the number of conflicts taking place in a country in relation with the number of mentions in the media depending on where the conflict has happened?
 q2 - number of articles per country - us
-<iframe src="https://matterhorn-ada.github.io/urls-log.html" width="100%" height="400px" frameBorder="0"></iframe>
 
 
 ### How much is too much?

@@ -27,6 +27,8 @@ Are some countries ignored in the news? Is the number of conflicts taking place 
 q2 - number of articles per country - us
 {: style="text-align: justify"}
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~matterhorn_ada/3.embed"></iframe>
+
 
 ### How much is too much?
 Do we have a saturation limit? Does increasing number of conflicts make people feel worse and worse or is there some limit?
